@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ![Huzaifa Rehan](https://img.shields.io/badge/Huzaifa%20Rehan-AI%20Enthusiast-brightgreen?style=for-the-badge)  
+# 👋 Hi, I'm Huzaifa Rehan  
 
 🎓 **BS Artificial Intelligence Student (5th Semester)** | CGPA: **3.4**  
 📍 Lahore, Pakistan | 📧 rehanhuzaifa96@gmail.com | 📱 +92-306-3337601  
@@ -57,4 +57,4 @@ Currently working as a **Machine Learning Engineer Intern** and building **AI-po
 
 ---
 
-✨ *"Always exploring AI to solve real-world problems and create impactful solutions."*  
+✨ *"Always exploring AI
