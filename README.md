@@ -1,27 +1,24 @@
-<!-- Banner / Typing Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=header"/>
-  <h1>👋 Hi, I'm <span style="color:#2F81F7;">Huzaifa Rehan</span></h1>
-  <h3>
-    <img src="https://img.shields.io/badge/AI%20Enthusiast-2F81F7?style=flat-square&logo=OpenAI&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-2F81F7?style=flat-square&logo=Google&logoColor=white"/>
-  </h3>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Python+Developer+%7C+Data+Analyst" alt="Typing Animation" />
-  </p>
-</div>
+<h1 align="center">👋 Hi, I'm <span style="color:#2F81F7;">Huzaifa Rehan</span></h1>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-2F81F7?style=flat-square&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-2F81F7?style=flat-square&logo=Google&logoColor=white"/>
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Python+Developer+%7C+Data+Analyst" alt="Typing Animation" />
+</p>
 
 ---
 
-## 📑 Table of Contents
-- [🚀 About Me](#-about-me)
-- [🌟 Featured Projects](#-featured-projects)
-- [🏅 Achievements & Certifications](#-achievements--certifications)
-- [🛠️ Skills](#️-skills)
-- [💼 Experience](#-experience)
-- [📊 GitHub Stats](#-github-stats)
-- [🌐 Connect with Me](#-connect-with-me)
-- [✨ Fun Fact](#-fun-fact)
+<div align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-2F81F7?style=for-the-badge&logo=aboutdotme" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-00C853?style=for-the-badge&logo=github" /></a>
+  <a href="#-achievements--certifications"><img src="https://img.shields.io/badge/Achievements%20&%20Certifications-FFD600?style=for-the-badge&logo=certificate" /></a>
+  <a href="#️-skills"><img src="https://img.shields.io/badge/Skills-0288D1?style=for-the-badge&logo=skillshare" /></a>
+  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-FF6F00?style=for-the-badge&logo=work" /></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-B71C1C?style=for-the-badge&logo=github" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#-fun-fact"><img src="https://img.shields.io/badge/Fun%20Fact-8E24AA?style=for-the-badge&logo=smugmug" /></a>
+</div>
 
 ---
 
@@ -34,24 +31,24 @@
 
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/huzaifa1rehan/MultiAgent-Business-Insights"><b>MultiAgent-Business-Insights</b></a></td>
-    <td>Orchestrating multiple AI agents for business analytics & insights.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/huzaifa1rehan/Face-Profiling-using-CV"><b>Face-Profiling-using-CV</b></a></td>
-    <td>Computer Vision project for face profiling and recognition.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/huzaifa1rehan/Programming-for-AI"><b>Programming-for-AI</b></a></td>
-    <td>Collection of AI & ML programming assignments and projects.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/huzaifa1rehan/Fine-Tuning-Cartoon-style-character"><b>Fine-Tuning-Cartoon-style-character</b></a></td>
-    <td>Custom cartoon character generation using deep learning.</td>
-  </tr>
-</table>
+<ul>
+  <li>
+    <a href="https://github.com/huzaifa1rehan/MultiAgent-Business-Insights"><strong>MultiAgent-Business-Insights</strong></a>
+    <br><sub>Orchestrating multiple AI agents for business analytics & insights.</sub>
+  </li>
+  <li>
+    <a href="https://github.com/huzaifa1rehan/Face-Profiling-using-CV"><strong>Face-Profiling-using-CV</strong></a>
+    <br><sub>Computer Vision project for face profiling and recognition.</sub>
+  </li>
+  <li>
+    <a href="https://github.com/huzaifa1rehan/Programming-for-AI"><strong>Programming-for-AI</strong></a>
+    <br><sub>Collection of AI & ML programming assignments and projects.</sub>
+  </li>
+  <li>
+    <a href="https://github.com/huzaifa1rehan/Fine-Tuning-Cartoon-style-character"><strong>Fine-Tuning-Cartoon-style-character</strong></a>
+    <br><sub>Custom cartoon character generation using deep learning.</sub>
+  </li>
+</ul>
 
 ---
 
@@ -106,10 +103,6 @@
   <a href="https://www.linkedin.com/in/huzaifa-rehan-14b719297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/huzaifa1rehan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer"/>
-</div>
 
 ---
 
