@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2F81F7;">Huzaifa Rehan</span></h1>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-2F81F7?style=flat-square&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-2F81F7?style=flat-square&logo=Google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-2F81F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-2F81F7?style=flat-square"/>
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Python+Developer+%7C+Data+Analyst" alt="Typing Animation" />
@@ -10,14 +10,14 @@
 ---
 
 <div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-2F81F7?style=for-the-badge&logo=aboutdotme" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-00C853?style=for-the-badge&logo=github" /></a>
-  <a href="#-achievements--certifications"><img src="https://img.shields.io/badge/Achievements%20&%20Certifications-FFD600?style=for-the-badge&logo=certificate" /></a>
-  <a href="#️-skills"><img src="https://img.shields.io/badge/Skills-0288D1?style=for-the-badge&logo=skillshare" /></a>
-  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-FF6F00?style=for-the-badge&logo=work" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-B71C1C?style=for-the-badge&logo=github" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#-fun-fact"><img src="https://img.shields.io/badge/Fun%20Fact-8E24AA?style=for-the-badge&logo=smugmug" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-2F81F7?style=for-the-badge" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-00C853?style=for-the-badge" /></a>
+  <a href="#-achievements--certifications"><img src="https://img.shields.io/badge/Achievements%20&%20Certifications-FFD600?style=for-the-badge" /></a>
+  <a href="#️-skills"><img src="https://img.shields.io/badge/Skills-0288D1?style=for-the-badge" /></a>
+  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-FF6F00?style=for-the-badge" /></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-B71C1C?style=for-the-badge" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge" /></a>
+  <a href="#-fun-fact"><img src="https://img.shields.io/badge/Fun%20Fact-8E24AA?style=for-the-badge" /></a>
 </div>
 
 ---
