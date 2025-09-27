@@ -8,17 +8,53 @@
 
 ---
 
-## 🚀 About Me  
-🎓 5th Semester **BS Artificial Intelligence** student (CGPA **3.4**)  
-💻 Passionate about **Machine Learning, NLP, Generative AI, and Computer Vision**  
-⚡ Experienced in building **RAG systems, AI Agents, and automation tools**  
+## 📑 Table of Contents
+- [🚀 About Me](#-about-me)
+- [🌟 Featured Projects](#-featured-projects)
+- [🏅 Achievements & Certifications](#-achievements--certifications)
+- [🛠️ Skills](#️-skills)
+- [💼 Experience](#-experience)
+- [📊 GitHub Stats](#-github-stats)
+- [🌐 Connect with Me](#-connect-with-me)
+- [✨ Fun Fact](#-fun-fact)
 
 ---
 
-## 🛠️ Skills  
+## 🚀 About Me
+🎓 5th Semester **BS Artificial Intelligence** student (CGPA **3.4**)  
+💻 Passionate about **Machine Learning, NLP, Generative AI, and Computer Vision**  
+⚡ Experienced in building **RAG systems, AI Agents, and automation tools**  
+📚 Always learning, always building!
+
+---
+
+## 🌟 Featured Projects
+
+- [MultiAgent-Business-Insights](https://github.com/huzaifa1rehan/MultiAgent-Business-Insights)<br>
+  <sub>Orchestrating multiple AI agents for business analytics & insights.</sub>
+
+- [Face-Profiling-using-CV](https://github.com/huzaifa1rehan/Face-Profiling-using-CV)<br>
+  <sub>Computer Vision project for face profiling and recognition.</sub>
+
+- [Programming-for-AI](https://github.com/huzaifa1rehan/Programming-for-AI)<br>
+  <sub>Collection of AI & ML programming assignments and projects.</sub>
+
+- [Fine-Tuning-Cartoon-style-character](https://github.com/huzaifa1rehan/Fine-Tuning-Cartoon-style-character)<br>
+  <sub>Custom cartoon character generation using deep learning.</sub>
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🏆 Winner, Superior University AI Community Hackathon (2024)
+- 📜 Certificate: "Generative AI Fundamentals" – Coursera
+- ⚡ Built and deployed a WhatsApp NLP Agent for Fiverr clients
+
+---
+
+## 🛠️ Skills
 
 <p align="center">
-  <!-- Top Skills -->
   <img src="https://img.shields.io/badge/Python-★★★★★-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-★★★★☆-green?style=for-the-badge&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/Data%20Analysis-★★★★☆-orange?style=for-the-badge&logo=pandas" />
@@ -30,7 +66,7 @@
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
 - 🧑‍💻 **Machine Learning Engineer (Intern)** – Rhombix Technologies *(Nov 2024 – Present)*  
 - 🧑‍💻 **Machine Learning Engineer (Intern)** – YoungDev *(Sep 2024 – Present)*  
@@ -39,7 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifa1rehan&show_icons=true&theme=radical" alt="stats" height="160" />
@@ -52,7 +88,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:rehanhuzaifa96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -60,3 +96,11 @@
   <a href="https://www.linkedin.com/in/huzaifa-rehan-14b719297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/huzaifa1rehan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+> 💬 **Let's connect, collaborate, and build something amazing!**
+
+---
+
+## ✨ Fun Fact
+
+I can turn coffee ☕ into code and memes into machine learning models. Always curious, always learning!
