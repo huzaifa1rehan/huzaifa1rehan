@@ -1,16 +1,17 @@
 <!-- Banner / Typing Animation -->
-<h1 align="center">👋 Hi, I'm <span style="color:#2F81F7;">Huzaifa Rehan</span></h1>
-<h3 align="center"><img src="https://img.shields.io/badge/BS%20AI-2F81F7?style=flat-square&logo=OpenAI&logoColor=white"/> | AI Enthusiast | Machine Learning Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Python+Developer+%7C+Data+Analyst" alt="Typing Animation" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=header"/>
+  <h1>👋 Hi, I'm <span style="color:#2F81F7;">Huzaifa Rehan</span></h1>
+  <h3>
+    <img src="https://img.shields.io/badge/AI%20Enthusiast-2F81F7?style=flat-square&logo=OpenAI&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-2F81F7?style=flat-square&logo=Google&logoColor=white"/>
+  </h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Python+Developer+%7C+Data+Analyst" alt="Typing Animation" />
+  </p>
+</div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=110&section=header"/>
-</div>
 
 ## 📑 Table of Contents
 - [🚀 About Me](#-about-me)
@@ -25,10 +26,9 @@
 ---
 
 ## 🚀 About Me
-> 🎓 5th Semester **BS Artificial Intelligence** student (CGPA **3.4**)  
 > 💻 Passionate about **Machine Learning, NLP, Generative AI, and Computer Vision**  
 > ⚡ Experienced in building **RAG systems, AI Agents, and automation tools**  
-> 📚 Always learning, always building!
+> 🌱 Constant learner, driven by curiosity and innovation.
 
 ---
 
@@ -108,7 +108,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer"/>
 </div>
 
 ---
