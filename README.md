@@ -1,119 +1,148 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#2F81F7;">Huzaifa Rehan</span></h1>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-2F81F7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-2F81F7?style=flat-square"/>
-</h3>
+<h1 align="center">🚀 Huzaifa Rehan</h1>
+<h3 align="center">AI Engineer | Generative AI | RAG Systems | Automation</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Python+Developer+%7C+Data+Analyst" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Automation+Systems;Generative+AI+%7C+NLP+%7C+Computer+Vision;From+Idea+to+Production+AI+Solutions" />
 </p>
 
 ---
 
-<div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-2F81F7?style=for-the-badge" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-00C853?style=for-the-badge" /></a>
-  <a href="#-achievements--certifications"><img src="https://img.shields.io/badge/Achievements%20&%20Certifications-FFD600?style=for-the-badge" /></a>
-  <a href="#️-skills"><img src="https://img.shields.io/badge/Skills-0288D1?style=for-the-badge" /></a>
-  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-FF6F00?style=for-the-badge" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-B71C1C?style=for-the-badge" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge" /></a>
-  <a href="#-fun-fact"><img src="https://img.shields.io/badge/Fun%20Fact-8E24AA?style=for-the-badge" /></a>
-</div>
+## 🧠 About Me
+
+I’m an **AI Engineer** focused on building **real-world intelligent systems** using:
+
+* 🤖 AI Agents & Automation
+* 🧠 Generative AI & LLM Applications
+* 🔎 RAG (Retrieval-Augmented Generation) Systems
+* 👁 Computer Vision
+
+💡 I don’t just learn AI — I **build production-level solutions**.
 
 ---
 
-## 🚀 About Me
-> 💻 Passionate about **Machine Learning, NLP, Generative AI, and Computer Vision**  
-> ⚡ Experienced in building **RAG systems, AI Agents, and automation tools**  
-> 🌱 Constant learner, driven by curiosity and innovation.
+## 🔥 Featured Projects
+
+### 🧩 BlendAgent-MCP *(Flagship Project)*
+
+👉 AI-powered **Text-to-3D system** that connects GPT API with Blender using MCP
+
+* Converts natural language → real-time 3D actions
+* Automates lighting, rendering, materials
+* Uses **Blender Add-on + BPY + GPT API**
 
 ---
 
-## 🌟 Featured Projects
+### 🤖 MultiAgent Business Insights
 
-<ul>
-  <li>
-    <a href="https://github.com/huzaifa1rehan/MultiAgent-Business-Insights"><strong>MultiAgent-Business-Insights</strong></a>
-    <br><sub>Orchestrating multiple AI agents for business analytics & insights.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/huzaifa1rehan/Face-Profiling-using-CV"><strong>Face-Profiling-using-CV</strong></a>
-    <br><sub>Computer Vision project for face profiling and recognition.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/huzaifa1rehan/Programming-for-AI"><strong>Programming-for-AI</strong></a>
-    <br><sub>Collection of AI & ML programming assignments and projects.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/huzaifa1rehan/Fine-Tuning-Cartoon-style-character"><strong>Fine-Tuning-Cartoon-style-character</strong></a>
-    <br><sub>Custom cartoon character generation using deep learning.</sub>
-  </li>
-</ul>
+👉 Multi-agent system for automated business analytics
+
+* Agent orchestration
+* Insight generation
+* Data-driven decision support
 
 ---
 
-## 🏅 Achievements & Certifications
+### 👁 Face Profiling (Computer Vision)
 
-- 📜 Certificate: "Generative AI Fundamentals" – Coursera
-- ⚡ Built and deployed a WhatsApp NLP Agent for Fiverr clients
+👉 Face detection & profiling system
+
+* OpenCV-based pipeline
+* Feature extraction & recognition
 
 ---
 
-## 🛠️ Skills
+### 🎨 Fine-Tuned Cartoon Generator
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-★★★★★-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-★★★★☆-green?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-★★★★☆-orange?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-★★★★☆-red?style=for-the-badge&logo=opencv" />
-  <img src="https://img.shields.io/badge/Generative%20AI-★★★★☆-purple?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/NLP-★★★★☆-yellow?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-★★★★☆-pink?style=for-the-badge&logo=langchain" />
-</p>
+👉 Deep learning model for generating custom cartoon characters
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Core
+
+* Python
+* OOP & Data Structures
+
+### 🤖 AI / ML
+
+* Scikit-learn
+* Pandas, NumPy
+* Computer Vision (OpenCV)
+
+### 🧠 Generative AI
+
+* LLM APIs (GPT)
+* RAG Systems
+* LangChain / AI Agents
+
+### ⚙️ Tools
+
+* Git & GitHub
+* Google Colab
+* Streamlit
 
 ---
 
 ## 💼 Experience
 
-- 🧑‍💻 <b>Machine Learning Engineer (Intern)</b> – Rhombix Technologies *(Nov 2024 – Present)*  
-- 🧑‍💻 <b>Machine Learning Engineer (Intern)</b> – YoungDev *(Sep 2024 – Present)*  
-- 🤖 <b>AI Automation Freelancer (Fiverr)</b> – Developed WhatsApp Agent using NLP *(May 2024 – Present)*  
-- 💬 <b>First Chatbot</b> – Built as part of Superior University AI Community Project  
+* 🧑‍💻 **ML Engineer Intern – Rhombix Technologies** *(2024 – Present)*
+* 🧑‍💻 **ML Engineer Intern – YoungDev** *(2024 – Present)*
+* 🤖 **AI Automation Freelancer (Fiverr)**
+
+  * Built WhatsApp NLP Agent
+* 🎓 AI Student – Superior University
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa1rehan&show_icons=true&theme=radical" alt="stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1rehan&theme=radical" alt="streak" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1rehan&layout=compact&theme=radical" alt="top langs" height="140" />
-</p>
+* 📜 Generative AI Fundamentals – Coursera
+* ⚡ Built real-world AI automation systems for clients
+* 🚀 Developed multiple AI agents & RAG pipelines
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:rehanhuzaifa96@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/923063337601" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/huzaifa-rehan-14b719297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/huzaifa1rehan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa1rehan&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1rehan&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1rehan&layout=compact&theme=radical" height="140"/>
 </p>
 
 ---
 
-## ✨ Fun Fact
+## 🌐 Connect With Me
 
-> I can turn coffee ☕ into code and memes into machine learning models. Always curious, always learning!
+<p align="center">
+  <a href="mailto:rehanhuzaifa96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923063337601">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/huzaifa-rehan-14b719297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/huzaifa1rehan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ What Makes Me Different?
+
+✔ I build **AI agents, not just models**
+✔ I focus on **real-world applications, not theory only**
+✔ I combine **AI + automation + product thinking**
+
+---
+
+## ☕ Fun Fact
+
+I turn ideas into AI systems faster than most people write requirements.
