@@ -23,9 +23,7 @@
 ---
 
 ## 🚀 About Me
-> 💻 Passionate about **Machine Learning, NLP, Generative AI, and Computer Vision**  
-> ⚡ Experienced in building **RAG systems, AI Agents, and automation tools**  
-> 🌱 Constant learner, driven by curiosity and innovation.
+> 💻 Passionate about **Machine Learning, NLP, Generative AI, and Computer Vision** > ⚡ Experienced in building **RAG systems, AI Agents, and MCP Servers** > 🌱 6th Semester AI Student at **Superior University**, driven by Technopreneurship.
 
 ---
 
@@ -33,20 +31,20 @@
 
 <ul>
   <li>
+    <a href="https://github.com/huzaifa1rehan/MCP-Server-Blender"><strong>MCP-Blender-Agent</strong></a>
+    <br><sub>Developing a Model Context Protocol (MCP) server to control Blender via AI. Enabling natural language prompts to automate 3D modeling and rendering.</sub>
+  </li>
+  <li>
     <a href="https://github.com/huzaifa1rehan/MultiAgent-Business-Insights"><strong>MultiAgent-Business-Insights</strong></a>
     <br><sub>Orchestrating multiple AI agents for business analytics & insights.</sub>
   </li>
   <li>
     <a href="https://github.com/huzaifa1rehan/Face-Profiling-using-CV"><strong>Face-Profiling-using-CV</strong></a>
-    <br><sub>Computer Vision project for face profiling and recognition.</sub>
-  </li>
-  <li>
-    <a href="https://github.com/huzaifa1rehan/Programming-for-AI"><strong>Programming-for-AI</strong></a>
-    <br><sub>Collection of AI & ML programming assignments and projects.</sub>
+    <br><sub>Computer Vision project for face profiling and recognition (FaceInsight).</sub>
   </li>
   <li>
     <a href="https://github.com/huzaifa1rehan/Fine-Tuning-Cartoon-style-character"><strong>Fine-Tuning-Cartoon-style-character</strong></a>
-    <br><sub>Custom cartoon character generation using deep learning.</sub>
+    <br><sub>Custom cartoon character generation using deep learning and fine-tuning.</sub>
   </li>
 </ul>
 
@@ -56,6 +54,7 @@
 
 - 📜 Certificate: "Generative AI Fundamentals" – Coursera
 - ⚡ Built and deployed a WhatsApp NLP Agent for Fiverr clients
+- 🏆 Presented AI-driven 3D automation at Technopreneurship Exhibition
 
 ---
 
@@ -67,18 +66,14 @@
   <img src="https://img.shields.io/badge/Data%20Analysis-★★★★☆-orange?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/Computer%20Vision-★★★★☆-red?style=for-the-badge&logo=opencv" />
   <img src="https://img.shields.io/badge/Generative%20AI-★★★★☆-purple?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/NLP-★★★★☆-yellow?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-★★★★☆-pink?style=for-the-badge&logo=langchain" />
+  <img src="https://img.shields.io/badge/MCP-★★★★☆-black?style=for-the-badge&logo=anthropic" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-- 🧑‍💻 <b>Machine Learning Engineer (Intern)</b> – Rhombix Technologies *(Nov 2024 – Present)*  
-- 🧑‍💻 <b>Machine Learning Engineer (Intern)</b> – YoungDev *(Sep 2024 – Present)*  
-- 🤖 <b>AI Automation Freelancer (Fiverr)</b> – Developed WhatsApp Agent using NLP *(May 2024 – Present)*  
-- 💬 <b>First Chatbot</b> – Built as part of Superior University AI Community Project  
+- 🧑‍💻 <b>Machine Learning Engineer (Intern)</b> – Rhombix Technologies *(Nov 2024 – Present)* - 🧑‍💻 <b>Machine Learning Engineer (Intern)</b> – YoungDev *(Sep 2024 – Present)* - 🤖 <b>AI Automation Freelancer (Fiverr)</b> – Developed WhatsApp Agent using NLP *(May 2024 – Present)* - 💬 <b>First Chatbot</b> – Built as part of Superior University AI Community Project  
 
 ---
 
@@ -87,10 +82,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifa1rehan&show_icons=true&theme=radical" alt="stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1rehan&theme=radical" alt="streak" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1rehan&layout=compact&theme=radical" alt="top langs" height="140" />
 </p>
 
 ---
