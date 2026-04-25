@@ -1,76 +1,105 @@
 <h1 align="center">🚀 Huzaifa Rehan</h1>
-<h3 align="center">AI Engineer | Agentic AI | RAG Systems | B2B Automation</h3>
+<h3 align="center">AI Engineer | Generative AI | RAG Systems | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+%26+Automation+Systems;Solving+B2B+Pain+Points+with+AI;From+Idea+to+Production-Grade+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Automation+Systems;Generative+AI+%7C+NLP+%7C+Computer+Vision;From+Idea+to+Production+AI+Solutions" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m an **AI Engineer** currently in my 6th semester, intensely focused on building **autonomous systems that solve real-world business pain points**. I don't just build simple wrappers; I specialize in creating "pain killer" products for B2B markets (like logistics and healthcare), prioritizing cost-effective architectures using open-source local models alongside powerful APIs.
+I’m an **AI Engineer** focused on building **real-world intelligent systems** using:
 
-**My Focus Areas:**
-* 🤖 **Agentic AI & MCP:** Orchestrating complex workflows using the Model Context Protocol.
-* 🧠 **Generative AI & LLMs:** Building scalable RAG pipelines and automation agents.
-* 👁️ **Computer Vision:** Developing robust detection and profiling systems.
+* 🤖 AI Agents & Automation
+* 🧠 Generative AI & LLM Applications
+* 🔎 RAG (Retrieval-Augmented Generation) Systems
+* 👁 Computer Vision
+
+💡 I don’t just learn AI — I **build production-level solutions**.
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🧩 BlendAgent-MCP *(Flagship Project)*
-👉 **AI-Powered Text-to-3D Workflow Automation**
-* Built an MCP server integrating the GPT API directly with Blender.
-* Translates natural language into real-time 3D actions—automating rendering, lighting, and material generation via a custom Blender Add-on (BPY).
 
-### 🌾 Agro MRS Dosage Calculator
-👉 **Precision Agriculture Assistant**
-* Developed a specialized logic calculator to determine precise chemical/pesticide measurements (e.g., MRS Emamectin) for various crops.
-* Integrated English/Urdu translation mapping for accessible, real-world deployment.
+👉 AI-powered **Text-to-3D system** that connects GPT API with Blender using MCP
 
-### 👁 FaceInsight (Computer Vision)
-👉 **Advanced Facial Profiling System**
-* Engineered a robust face detection and profiling pipeline using OpenCV.
-* Implemented feature extraction for accurate real-time recognition.
+* Converts natural language → real-time 3D actions
+* Automates lighting, rendering, materials
+* Uses **Blender Add-on + BPY + GPT API**
+
+---
 
 ### 🤖 MultiAgent Business Insights
-👉 **Automated B2B Analytics Orchestrator**
-* Designed a multi-agent system to automate insight generation and provide data-driven decision support for business intelligence.
+
+👉 Multi-agent system for automated business analytics
+
+* Agent orchestration
+* Insight generation
+* Data-driven decision support
+
+---
+
+### 👁 Face Profiling (Computer Vision)
+
+👉 Face detection & profiling system
+
+* OpenCV-based pipeline
+* Feature extraction & recognition
+
+---
+
+### 🎨 Fine-Tuned Cartoon Generator
+
+👉 Deep learning model for generating custom cartoon characters
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Core & Architecture
-`Python` | `OOP` | `Model Context Protocol (MCP)` | `Data Structures`
+### 💻 Core
 
-### 🤖 AI / ML / CV
-`Scikit-learn` | `Pandas` | `NumPy` | `OpenCV` | `Reinforcement Learning`
+* Python
+* OOP & Data Structures
 
-### 🧠 Generative AI & Automation
-`LLM APIs (GPT)` | `Local LLMs` | `Faster-Whisper & Piper TTS` | `LangChain / AI Agents` | `RAG Systems`
+### 🤖 AI / ML
+
+* Scikit-learn
+* Pandas, NumPy
+* Computer Vision (OpenCV)
+
+### 🧠 Generative AI
+
+* LLM APIs (GPT)
+* RAG Systems
+* LangChain / AI Agents
 
 ### ⚙️ Tools
-`Git & GitHub` | `Google Colab` | `Streamlit` 
+
+* Git & GitHub
+* Google Colab
+* Streamlit
 
 ---
 
 ## 💼 Experience
 
-* 🧑‍💻 **ML Engineer Intern** – *Rhombix Technologies* (2024 – Present)
-* 🧑‍💻 **ML Engineer Intern** – *YoungDev* (2024 – Present)
-* 🤖 **AI Automation Freelancer** – *Fiverr* * *Delivered production-ready NLP Agents (e.g., WhatsApp AI bots) for international clients.*
-* 🎓 **AI Student** – *Superior University*
+* 🧑‍💻 **ML Engineer Intern – Rhombix Technologies** *(2024 – Present)*
+* 🧑‍💻 **ML Engineer Intern – YoungDev** *(2024 – Present)*
+* 🤖 **AI Automation Freelancer (Fiverr)**
+
+  * Built WhatsApp NLP Agent
+* 🎓 AI Student – Superior University
 
 ---
 
-## 🏆 Achievements & Milestones
+## 🏆 Achievements
 
-* 🎯 Exhibited *BlendAgent-MCP* at the 2026 Technopreneurship Poster Exhibition.
-* 📜 Generative AI Fundamentals – *Coursera*
-* ⚡ Successfully deployed multiple AI agents & RAG pipelines for real-world clients.
+* 📜 Generative AI Fundamentals – Coursera
+* ⚡ Built real-world AI automation systems for clients
+* 🚀 Developed multiple AI agents & RAG pipelines
 
 ---
 
@@ -108,12 +137,12 @@ I’m an **AI Engineer** currently in my 6th semester, intensely focused on buil
 
 ## ⚡ What Makes Me Different?
 
-✔ I build **autonomous agents**, not just standard models.
-✔ I prioritize **cost-effective local execution** alongside API integrations.
-✔ I combine **AI + Automation + B2B Product Thinking**.
+✔ I build **AI agents, not just models**
+✔ I focus on **real-world applications, not theory only**
+✔ I combine **AI + automation + product thinking**
 
 ---
 
 ## ☕ Fun Fact
 
-I turn complex ideas into functional AI systems faster than most people write the requirements.
+I turn ideas into AI systems faster than most people write requirements.
