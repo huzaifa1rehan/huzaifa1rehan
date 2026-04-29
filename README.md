@@ -1,148 +1,195 @@
 <h1 align="center">🚀 Huzaifa Rehan</h1>
-<h3 align="center">AI Engineer | Generative AI | RAG Systems | Automation</h3>
+
+<h3 align="center">
+AI Engineer | Generative AI Specialist | RAG Systems | AI Agents | Automation Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Automation+Systems;Generative+AI+%7C+NLP+%7C+Computer+Vision;From+Idea+to+Production+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;RAG+%7C+LLMs+%7C+AI+Agents+%7C+Automation;Turning+Ideas+into+Real-World+AI+Products;From+Research+to+Scalable+AI+Solutions" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME — AI ENGINEER PROFILE
 
-I’m an **AI Engineer** focused on building **real-world intelligent systems** using:
+I am an **AI Engineer** specializing in building **end-to-end intelligent systems** that go beyond models and focus on **real-world deployment, automation, and scalable AI solutions**.
 
-* 🤖 AI Agents & Automation
-* 🧠 Generative AI & LLM Applications
-* 🔎 RAG (Retrieval-Augmented Generation) Systems
-* 👁 Computer Vision
-
-💡 I don’t just learn AI — I **build production-level solutions**.
+### 💡 My Core Philosophy:
+> “AI is not just about training models — it’s about building systems that think, act, and solve real problems.”
 
 ---
 
-## 🔥 Featured Projects
+## 🎯 WHAT I BUILD
 
-### 🧩 BlendAgent-MCP *(Flagship Project)*
-
-👉 AI-powered **Text-to-3D system** that connects GPT API with Blender using MCP
-
-* Converts natural language → real-time 3D actions
-* Automates lighting, rendering, materials
-* Uses **Blender Add-on + BPY + GPT API**
-
----
-
-### 🤖 MultiAgent Business Insights
-
-👉 Multi-agent system for automated business analytics
-
-* Agent orchestration
-* Insight generation
-* Data-driven decision support
+✔ 🤖 AI Agents that automate decision-making  
+✔ 🧠 RAG-based intelligent knowledge systems  
+✔ 🔎 LLM-powered applications  
+✔ 👁 Computer Vision systems for real-world use cases  
+✔ ⚙ Automation pipelines for business workflows  
+✔ 📊 Multi-agent AI systems for analytics  
 
 ---
 
-### 👁 Face Profiling (Computer Vision)
-
-👉 Face detection & profiling system
-
-* OpenCV-based pipeline
-* Feature extraction & recognition
+## 🔥 FEATURED PROJECTS (PRODUCTION-LEVEL)
 
 ---
 
-### 🎨 Fine-Tuned Cartoon Generator
+### 🚀 1. Fin-RAG (Latest & Flagship Project)
+**Advanced Financial Self-RAG System**
 
-👉 Deep learning model for generating custom cartoon characters
+- Intelligent Retrieval-Augmented Generation pipeline  
+- Self-check mechanism to reduce hallucinations  
+- Financial document Q&A system  
+- Context-aware response generation  
+- Optimized retrieval strategy for accuracy improvement  
+
+👉 *Problem solved: unreliable LLM financial responses → improved factual accuracy using retrieval + self validation*
 
 ---
 
-## 🛠 Tech Stack
+### 🤖 2. MCP Blender AI (BlendAgent System)
+**Text-to-3D AI Generation System**
 
-### 💻 Core
+- Natural language → Blender automation pipeline  
+- GPT API integration with MCP protocol  
+- Automated scene creation (lighting, objects, materials)  
+- Blender Python API (bpy) based control system  
+- Real-time AI-driven 3D generation  
 
-* Python
-* OOP & Data Structures
+👉 *Problem solved: manual 3D modeling → automated AI-based generation*
 
-### 🤖 AI / ML
+---
 
-* Scikit-learn
-* Pandas, NumPy
-* Computer Vision (OpenCV)
+### 📊 3. Multi-Business Insight AI Agent System
+**Multi-Agent Business Intelligence Platform**
+
+- Multiple AI agents working collaboratively  
+- Automated data interpretation pipeline  
+- Business insight generation engine  
+- Decision support AI system  
+- Structured reasoning over business datasets  
+
+👉 *Problem solved: manual data analysis → automated AI insights*
+
+---
+
+### 👁 4. Face Profiling System (Computer Vision)
+**AI-Based Identity & Feature Analysis System**
+
+- Face detection using OpenCV  
+- Feature extraction pipeline  
+- Profiling-based classification  
+- Real-time image processing system  
+
+---
+
+### 🎨 5. Fine-Tuned Cartoon Generation Model
+**Deep Learning Style Transfer System**
+
+- Cartoon-style image generation  
+- Model fine-tuning for custom outputs  
+- Image transformation pipeline  
+- Style adaptation system  
+
+---
+
+## 🛠 TECHNICAL SKILL STACK
+
+### 💻 Programming
+- Python (Advanced Level)
+- Object-Oriented Programming
+- Data Structures & Algorithms
+
+### 🤖 Artificial Intelligence
+- Machine Learning (Scikit-learn)
+- Deep Learning (Basics)
+- Computer Vision (OpenCV)
 
 ### 🧠 Generative AI
+- LLM APIs (GPT-based systems)
+- RAG Architecture (Retrieval-Augmented Generation)
+- AI Agents & Tool Calling
+- Prompt Engineering
 
-* LLM APIs (GPT)
-* RAG Systems
-* LangChain / AI Agents
-
-### ⚙️ Tools
-
-* Git & GitHub
-* Google Colab
-* Streamlit
-
----
-
-## 💼 Experience
-
-* 🧑‍💻 **ML Engineer Intern – Rhombix Technologies** *(2024 – Present)*
-* 🧑‍💻 **ML Engineer Intern – YoungDev** *(2024 – Present)*
-* 🤖 **AI Automation Freelancer (Fiverr)**
-
-  * Built WhatsApp NLP Agent
-* 🎓 AI Student – Superior University
+### ⚙ Tools & Platforms
+- Git & GitHub (Version Control)
+- Google Colab
+- Streamlit (AI Apps)
+- Basic Deployment Practices
 
 ---
 
-## 🏆 Achievements
+## 💼 PROFESSIONAL EXPERIENCE
 
-* 📜 Generative AI Fundamentals – Coursera
-* ⚡ Built real-world AI automation systems for clients
-* 🚀 Developed multiple AI agents & RAG pipelines
+### 🧑‍💻 ML Engineer Intern — Rhombix Technologies
+- AI model development and testing  
+- Data preprocessing pipelines  
+- ML system integration  
+
+### 🧑‍💻 ML Engineer Intern — YoungDev
+- Machine learning workflows  
+- AI experimentation & optimization  
+
+### 🤖 AI Automation Freelancer (Fiverr)
+- Built WhatsApp NLP chatbot systems  
+- Automation workflows for clients  
+- Custom AI solutions for business problems  
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 ACHIEVEMENTS
+
+- ⚡ Built multiple **AI Agent systems from scratch**
+- 🔎 Designed **production-level RAG pipelines**
+- 🚀 Developed **real-world AI automation tools**
+- 📜 Certified in Generative AI (Coursera)
+- 🧠 Strong foundation in AI system design
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa1rehan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1rehan&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa1rehan&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1rehan&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1rehan&layout=compact&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1rehan&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 CURRENT FOCUS
+
+- Advanced AI Agent architectures  
+- Production-grade RAG systems  
+- Multi-agent orchestration  
+- AI automation for real-world businesses  
+- Deployable AI products  
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:rehanhuzaifa96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/923063337601">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/huzaifa-rehan-14b719297/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/huzaifa1rehan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ What Makes Me Different?
+## ⚡ FINAL NOTE
 
-✔ I build **AI agents, not just models**
-✔ I focus on **real-world applications, not theory only**
-✔ I combine **AI + automation + product thinking**
+> I don’t just learn AI — I engineer intelligent systems that solve real-world problems at scale.
 
 ---
-
-## ☕ Fun Fact
-
-I turn ideas into AI systems faster than most people write requirements.
